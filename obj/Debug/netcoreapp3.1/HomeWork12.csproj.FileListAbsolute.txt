@@ -1,0 +1,17 @@
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/HomeWork12.deps.json
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/HomeWork12.runtimeconfig.json
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/HomeWork12.runtimeconfig.dev.json
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/HomeWork12.dll
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/HomeWork12.pdb
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/user/Documents/AlifLesson12/HomeWork12/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/user/Documents/AlifLesson12/HomeWork12/obj/Debug/netcoreapp3.1/HomeWork12.csprojAssemblyReference.cache
+/Users/user/Documents/AlifLesson12/HomeWork12/obj/Debug/netcoreapp3.1/HomeWork12.AssemblyInfoInputs.cache
+/Users/user/Documents/AlifLesson12/HomeWork12/obj/Debug/netcoreapp3.1/HomeWork12.AssemblyInfo.cs
+/Users/user/Documents/AlifLesson12/HomeWork12/obj/Debug/netcoreapp3.1/HomeWork12.csproj.CopyComplete
+/Users/user/Documents/AlifLesson12/HomeWork12/obj/Debug/netcoreapp3.1/HomeWork12.dll
+/Users/user/Documents/AlifLesson12/HomeWork12/obj/Debug/netcoreapp3.1/HomeWork12.pdb
